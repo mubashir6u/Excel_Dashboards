@@ -1,4 +1,4 @@
-![image](https://github.com/mubashir6u/Excel_Dashboards/assets/Coffee.PNG)
+![Coffee Sales Dashboard]([(https://raw.githubusercontent.com/mubashir6u/Excel_Dashboards/main/Coffee.PNG)])
 
 Excel Coffee Sales Dashboard
 Overview
