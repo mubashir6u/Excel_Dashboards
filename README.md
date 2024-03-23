@@ -1,4 +1,4 @@
-![image](https://github.com/mubashir6u/Excel_Dashboards/assets/58860142/92a2a473-846a-4c34-8a07-5eeb847fb56d)
+![image](https://github.com/mubashir6u/Excel_Dashboards/assets/Coffee.PNG)
 
 Excel Coffee Sales Dashboard
 Overview
