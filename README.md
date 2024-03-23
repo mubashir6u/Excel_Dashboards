@@ -1,4 +1,4 @@
-![Coffee Sales Dashboard]([(https://raw.githubusercontent.com/mubashir6u/Excel_Dashboards/main/Coffee.PNG)])
+<img align="center" alt="Coding" width="100%" src="https://raw.githubusercontent.com/mubashir6u/Excel_Dashboards/main/Coffee.PNG">
 
 Excel Coffee Sales Dashboard
 Overview
