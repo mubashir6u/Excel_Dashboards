@@ -1,3 +1,5 @@
+![image](https://github.com/mubashir6u/Excel_Dashboards/assets/58860142/92a2a473-846a-4c34-8a07-5eeb847fb56d)
+
 Excel Coffee Sales Dashboard
 Overview
 The Excel Coffee Sales Dashboard provides a user-friendly interface to analyze sales data for a coffee business directly within Microsoft Excel. It offers various features to visualize and interpret key metrics, helping stakeholders make informed decisions regarding sales strategies and inventory management.
